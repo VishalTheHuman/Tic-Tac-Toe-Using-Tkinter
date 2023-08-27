@@ -1,5 +1,5 @@
 # **Hack-VM-Translator 💻📟**
-![Tic Tac Toe Using Tkinter Banner](assets\Tic-Tac-Toe Using Python.png)
+![Tic Tac Toe Using Tkinter Banner](assets\Tic_Tac_Toe_Using_Tkinter_Banner.png)
 
 ## **Description**
 🟢 The Tic-Tac-Toe using Tkinter project is a classic game implementation that brings the age-old game of Tic-Tac-Toe to life with a modern graphical user interface (GUI) built using the Tkinter library in Python. Tic-Tac-Toe, also known as Noughts and Crosses, is a two-player game where the objective is to form a line of three of your symbols (either "X" or "O") on a 3x3 grid.
