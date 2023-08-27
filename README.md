@@ -25,7 +25,6 @@
 
 To run the Tic-Tac-Toe game using Tkinter, follow these steps:
 ```
-
 1. Ensure you have Python installed on your computer.
 
 2. Clone or download the project's source code from the repository.
