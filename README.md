@@ -1,12 +1,12 @@
-# **Hack-VM-Translator 💻📟**
+# **Tic Tac Toe Using Tkinter 💻🐍**
 ![Tic Tac Toe Using Tkinter Banner](assets\Tic_Tac_Toe_Using_Tkinter_Banner.png)
 
-## **Description**
+## **Description 📑**
 🟢 The Tic-Tac-Toe using Tkinter project is a classic game implementation that brings the age-old game of Tic-Tac-Toe to life with a modern graphical user interface (GUI) built using the Tkinter library in Python. Tic-Tac-Toe, also known as Noughts and Crosses, is a two-player game where the objective is to form a line of three of your symbols (either "X" or "O") on a 3x3 grid.
 
 🟡 This project offers an interactive and user-friendly experience, allowing two players to take turns making their moves on the game board until one of them wins by forming a winning combination or the game ends in a draw. It serves as an excellent example of how to create a simple yet engaging desktop application using Python and Tkinter.
 
-## **Features**
+## **Features 💫**
 🟥 *Graphical User Interface:* The game features a visually appealing GUI designed with Tkinter, making it easy and enjoyable to play.
 
 🟧 *Two-Player Mode:* Supports multiplayer gameplay, allowing two players to take turns on the same computer.
@@ -21,7 +21,7 @@
 
 🟦 *User-Friendly:* Intuitive controls make it accessible for players of all ages.
 
-## **How to Run**
+## **How to Run 🎽👟**
 
 To run the Tic-Tac-Toe game using Tkinter, follow these steps:
 ```
@@ -37,12 +37,12 @@ To run the Tic-Tac-Toe game using Tkinter, follow these steps:
 5. The game window will open, allowing you to start playing by clicking on the grid cells.
 ```
 
-## **Technologies Used**
+## **Technologies Used ⚙️**
 **Python:** The core programming language used for game logic and interaction.
 
 **Tkinter:** The standard GUI library for Python, used for creating the graphical user interface.
 
-## **Dependencies - Python Packages**
+## **Dependencies - Python Packages 🫶**
 *Tkinter*
 ```
 pip install tkinter
@@ -52,5 +52,5 @@ pip install tkinter
 pip install Pillow
 ```
 
-## **Project Status**
+## **Project Status 🧐**
 The Tic-Tac-Toe using Tkinter project is a fully functional game with basic features. Feel free to explore and modify the project to suit your preferences and learning objectives. It serves as a great starting point for learning game development with Python and Tkinter. Enjoy playing and coding!
