@@ -6,8 +6,6 @@
 
 🟡 This project offers an interactive and user-friendly experience, allowing two players to take turns making their moves on the game board until one of them wins by forming a winning combination or the game ends in a draw. It serves as an excellent example of how to create a simple yet engaging desktop application using Python and Tkinter.
 
-If you want to display the images in a table, you can use HTML within your Markdown to create the table structure. Here's how you can do it:
-
 ## **GUI**
 
 <table>
