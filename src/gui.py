@@ -20,7 +20,7 @@ class gui:
         self.window.resizable(False, False)
         self.window.configure(bg="#FFDBAA")
         
-        image = Image.open("assets\logo.png")
+        image = Image.open(r"assets/logo.png")
         image = image.resize((300, 110), Image.ANTIALIAS)
         self.photo = ImageTk.PhotoImage(image)
         
